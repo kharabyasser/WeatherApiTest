@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "AdCdzM66/5SrVn5HDXSLGMqAv1X3hTG4tA7GusKQgwRUhO6Cw7c5GZ/NhywO6Z6IqA79qwQbHt0h2O7ZUz4Zkg==",
+  "success": true,
+  "projectFilePath": "/Users/kharabyasser/Repositories/dockerdemo/WeatherApi/WeatherApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/kharabyasser/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/kharabyasser/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/kharabyasser/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/kharabyasser/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/kharabyasser/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/kharabyasser/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
